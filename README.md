@@ -1,2 +1,7 @@
 # Excel-Course__IIIT
-This is going to be the track report of our daily excel
+## day 1
+ - row operation
+ - column operation
+ - table formation
+ - arithmatic
+ - 
