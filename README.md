@@ -4,4 +4,4 @@
  - column operation
  - table formation
  - arithmatic
- - 
+   
