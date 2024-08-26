@@ -3,5 +3,9 @@
  - row operation
  - column operation
  - table formation
- - arithmatic
-   
+ - arithmatiC
+  ## DAY 2
+ - introducing formula
+ - formating technique
+ - dates & time
+ 
